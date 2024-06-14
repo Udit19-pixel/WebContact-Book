@@ -21,7 +21,6 @@ Developing a JSP-based web contact book where users can register, log in, and ma
 - Database interaction using JDBC for CRUD operations on MySQL.
 
 # Project Structure and Build
-
 ## Directory Structure
 - The Directory contains various types connection objects folder, the source folder which further consists of web components and ".jsp" files for authentication and performing CRUD operations. It also contains the ".war" file for packaging the project.
 
