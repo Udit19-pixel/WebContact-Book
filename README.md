@@ -6,8 +6,8 @@ Developing a JSP-based web contact book where users can register, log in, and ma
 
 # Project Requirements
 - Java Development Kit (JDK) : Version 8 or higher
-- Apache Tomcat** : Version 9 or higher
-- MySQL** : Version 5.7 or higher
+- Apache Tomcat : Version 9 or higher
+- MySQL : Version 5.7 or higher
 - Eclipse : Recommended IDE for development
 
 
