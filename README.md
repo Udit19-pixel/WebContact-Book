@@ -35,7 +35,7 @@ Developing a JSP-based web contact book where users can register, log in, and ma
 - The table "info" stores the contact details which the user creates over a period of time. This table has id, name,email, phone, about and userid as the attributes of the table. Here, id attribute is the primary key and has auto_increment on it.The about attribute stores the information of that contact that the user creates for additional information.
 
   <div align="center">
-   <img src="https://github.com/Udit19-pixel/WebContact-Book/blob/main/WebContact%20Book/Table_Structure.png" alt="Database Structure" width="650" height="380">
+   <img src="https://github.com/Udit19-pixel/WebContact-Book/blob/main/WebContact%20Book/Table_Structure.png" alt="Database Structure" width="650" height="400">
   </div>
 
 ## Entity Relationship
