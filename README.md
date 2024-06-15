@@ -32,7 +32,7 @@ Developing a JSP-based web contact book where users can register, log in, and ma
 ## Database Structure
 - The database created for this project is named as "contactbase" which holds two tables which are “contact” and "info".
 - The table "contact" stores the information of newly registered users who access the website. The table has ID, Name, Email and Password attributes. ID is the primary key of this table and Email and Password are used for user authorization for later purposes.
-- The table "info" stores the contact details which the user creates over a period of time. This table has id, name,email, phone, about and userid as the attributes of the table. Here, id attribute is the primary key and has auto_increment on it.The about attribute stores the information of that contact that the user creates for additional information.
+- The table "info" stores the contact details which the user creates over a period of time. This table has id, name,email, phone, about and userid as the attributes of the table. Here, id attribute is the primary key and has auto_increment on it. The about attribute stores the information of that contact that the user creates for additional information.
 
   <div align="center">
    <img src="https://github.com/Udit19-pixel/WebContact-Book/blob/main/WebContact%20Book/Table_Structure.png" alt="Database Structure" width="650" height="400">
