@@ -13,7 +13,7 @@ Developing a JSP-based web contact book where users can register, log in, and ma
 
 # Features
 
-##### The essential features of this project are -
+#### The essential features of this project are -
 - User authentication with registration and secure login/logout functionality.
 - Contact management for creating, editing, and deleting contacts.
 - Responsive user interface designed with Bootstrap and CSS.
