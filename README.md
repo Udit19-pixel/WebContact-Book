@@ -26,7 +26,7 @@ Developing a JSP-based web contact book where users can register, log in, and ma
 - The Directory contains various types connection objects folder, the source folder which further consists of web components and ".jsp" files for authentication and performing CRUD operations. It also contains the ".war" file for packaging the project.
   
   <div align="center">
-   <img src="https://github.com/Udit19-pixel/WebContact-Book/blob/main/WebContact%20Book/Project_Structure.png" alt="Project Structure" width="285" height="350">
+   <img src="https://github.com/Udit19-pixel/WebContact-Book/blob/main/WebContact%20Book/Project_Structure.png" alt="Project Structure" width="285" height="370">
   </div>
 
 ## Database Structure
