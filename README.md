@@ -63,5 +63,5 @@ Developing a JSP-based web contact book where users can register, log in, and ma
 - For my project, I am running the Tomcat's admin at port 8080 and the HTTP connection at port 8000.
 
   <div align="center">
-   <img src="https://github.com/Udit19-pixel/WebContact-Book/blob/main/WebContact%20Book/Tomcat_Server.png" alt="Tomcat Server" width="650" height="350">
+   <img src="https://github.com/Udit19-pixel/WebContact-Book/blob/main/WebContact%20Book/Tomcat_Server.png" alt="Tomcat Server" width="650" height="380">
   </div>
