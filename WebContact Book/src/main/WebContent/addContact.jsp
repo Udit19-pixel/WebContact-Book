@@ -71,7 +71,7 @@
 								</div>
 								<div class="form-group">
 									<label for="exampleInputEmail1">Phone Number</label> <input name="phone"
-									type="text" class="form-control" id="exampleInputEmail1"
+									type="text" class="form-control" id="exampleInputEmail1" pattern="\d{10}"
 									aria-describedby="emailHelp">
 								</div>
 								<div class="form-group">
