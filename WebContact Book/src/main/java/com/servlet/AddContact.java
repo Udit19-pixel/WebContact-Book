@@ -24,11 +24,18 @@ public class AddContact extends HttpServlet
 		String email=req.getParameter("email");
 		String phone=req.getParameter("phone");
 		String about=req.getParameter("about");
+
+		HttpSession session = req.getSession();
+	    	if (phone == null || !phone.matches("\\d{10}"))
+	    	{
+	        	session.setAttribute("failedMsg", "Phone number must be exactly 10 digits");
+	        	resp.sendRedirect("addContact.jsp");
+	        	return;
+	    	}
 		
 		Contact c=new Contact(name,email,phone,about,userId);
 		ContactDAO dao=new ContactDAO(dbConnect.getConn());
 		
-		HttpSession session=req.getSession();
 		boolean f=dao.saveContact(c);
 		if (f)
 		{
